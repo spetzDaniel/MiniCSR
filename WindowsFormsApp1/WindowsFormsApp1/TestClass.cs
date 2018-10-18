@@ -9,5 +9,9 @@ namespace WindowsFormsApp1
     public class TestClass
     {
 
+        public void Test1()
+        {
+        }
+
     }
 }
