@@ -17,5 +17,8 @@ namespace WindowsFormsApp1
         {
         }
 
+          public void Test3()
+        {
+        }
     }
 }
