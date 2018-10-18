@@ -8,5 +8,8 @@ namespace WindowsFormsApp1
 {
     class TestClass
     {
+        public void Test1()
+        {
+        }
     }
 }
