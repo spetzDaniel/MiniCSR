@@ -11,6 +11,7 @@ namespace WindowsFormsApp1
 
         public void Test1()
         {
+            int x = 2;
         }
 
         public void Test2()
