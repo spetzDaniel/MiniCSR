@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class TestClass
+    public class TestClass
     {
+
     }
 }
